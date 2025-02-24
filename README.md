@@ -29,15 +29,7 @@ Gracias por tomarte el tiempo de revisar mi CV. Aunque todavía no he trabajado 
 
 ¡Espero poder colaborar contigo pronto y seguir aprendiendo!
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://QR_IMG_para_la_WEB.png">
- <source media="(prefers-color-scheme: light)" srcset="QR_IMG_para_la_WEB.png">
- <img alt="Logo" src="file:///D:/Proyectos_roadmap.sh/CVitae_web/img/logo_whatsap_250px_.webp">
-</picture>
 
-
----
-
-<!-- ![¡Visita mi CV interactivo!](QR_IMG_para_la_WEB.png) ![Logo](file:///D:/Proyectos_roadmap.sh/CVitae_web/img/logo_whatsap_250px_.webp) -->
+![¡Visita mi CV interactivo!](QR_IMG_para_la_WEB.png) ![Logo](file:///D:/Proyectos_roadmap.sh/CVitae_web/img/logo_whatsap_250px_.webp)
 
 
